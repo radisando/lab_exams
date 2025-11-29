@@ -4,20 +4,8 @@ This project was created to visualize my parents’ blood exam results in a more
 To show that here publicly, I've built here a dataset by anonymizing and randomizing values, and generated interactive plots and dashboards to explore trends over time. 
 The final dataset is designed to be easily analyzed and visualized in Tableau, with screenshots showcasing key visual insights.
 
-- 🔗 Check the final result in Tableau: [Lab Exam Results Dashboard]([https://public.tableau.com/views/2025_11LaboratoryExamResultsv6/ENDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 Check the final result in Tableau: [Lab Exam Results Dashboard](https://public.tableau.com/views/2025_11LaboratoryExamResultsv6/ENDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
-### 🚀 Features
-
-- Data Generation – Randomized and anonymized results for multiple patients (A, B, C, D) based on realistic reference ranges.
-
-- Controlled Randomization – Exam results and dates are varied while staying consistent with medical reference limits.
-
-- Date & Patient Manipulation – Supports manual and automated adjustments of exam dates and patient identifiers.
-
-- Visualization Ready – Dataset is clean and ready for plotting with Python (Seaborn/Matplotlib) or loading into Tableau.
-
-- Export Options – Save the dataset in Excel or CSV format for easy sharing and reporting.
 
 ### 🧩 Repository Structure
 ```bash
@@ -63,5 +51,5 @@ lab_exams/
 
 
 ## DEMO 
-- Example screenshots of MVP version:
+- Screenshots of the MVP version:
   <img width="1285" height="794" alt="image" src="https://github.com/user-attachments/assets/d9cde4f9-5401-41d7-862f-10e14b00e86e" />
