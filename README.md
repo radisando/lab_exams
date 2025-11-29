@@ -1,10 +1,11 @@
 ## 🧪📊 Laboratory Exams Results
+This project was originally created to help my family **visualize and track their blood exam results** more clearly. Using AI assistants (Julius AI and NotebookLM), I extracted and organized data from more than 100 PDF pages containing their exam values, dates, and results.
 
-This project was created to visualize my parents’ blood exam results in a more friendly and understandable way (for them and also for their doctors to follow-up).
-To show that here publicly, I've built here a dataset by anonymizing and randomizing values, and generated interactive plots and dashboards to explore trends over time. 
-The final dataset is designed to be easily analyzed and visualized in Tableau, with screenshots showcasing key visual insights.
+To make the project publicly shareable, I also built an anonymized dataset by randomizing and masking sensitive information. From this dataset, I generated interactive plots and dashboards that highlight trends and patterns over time.
 
-🔗 Check the final result in Tableau: [Lab Exam Results Dashboard](https://public.tableau.com/views/2025_11LaboratoryExamResultsv6/ENDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+The final dataset is optimized for use in Tableau, where the visualizations and screenshots included in this repository showcase the key insights.
+
+🔗 Check the final result here: [Lab Exam Results - Tableau Dashboard](https://public.tableau.com/views/2025_11LaboratoryExamResultsv6/ENDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### 🧩 Repository Structure
@@ -50,6 +51,14 @@ lab_exams/
 - Include filters for exam type, patient, or date range.
 
 
-## DEMO 
-- Screenshots of the MVP version:
-  <img width="1285" height="794" alt="image" src="https://github.com/user-attachments/assets/d9cde4f9-5401-41d7-862f-10e14b00e86e" />
+--- 
+### DEMO 
+- Screenshot of final version:
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/b126e5ac-b448-4fe3-b69f-c93585db864b" />
+
+
+- Screenshot of MVP version:
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/d9cde4f9-5401-41d7-862f-10e14b00e86e" />
+
+
+
