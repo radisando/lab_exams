@@ -1,11 +1,11 @@
 ## 🧪📊 Laboratory Exams Results
-This project was originally created to help my family **visualize and track their blood exam results** more clearly. Using AI assistants (Julius AI and NotebookLM), I extracted and organized data from more than 100 PDF pages containing their exam values, dates, and results.
+This project was originally created to help my family **visualize and track their blood exam results** more clearly. For that, I used AI assistants (Julius AI and NotebookLM) to extract and organize all the data from more than 100 PDF pages containing several laboratory exam results, from 2018 on.
 
-To make the project publicly shareable, I also built an anonymized dataset by randomizing and masking sensitive information. From this dataset, I generated interactive plots and dashboards that highlight trends and patterns over time.
+To make the project publicly shareable, I built an anonymized dataset by randomizing and masking sensitive information. From this dataset, I generated interactive plots and a multi language dashboard that highlights trends and patterns over time.
 
-The final dataset is optimized for use in Tableau, where the visualizations and screenshots included in this repository showcase the key insights.
+The final dataset was then optimized for use in Tableau, where the visualizations and screenshots included in this repository showcase the key insights.
 
-🔗 Check the final result here: [Lab Exam Results - Tableau Dashboard](https://public.tableau.com/views/2025_11LaboratoryExamResultsv6/ENDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 Check out the final result here: [Lab Exam Results - Tableau Dashboard](https://public.tableau.com/views/LaboratoryExamResults/ENDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### 🧩 Repository Structure
